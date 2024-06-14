@@ -1,1 +1,0 @@
-# personalised-email-sender
